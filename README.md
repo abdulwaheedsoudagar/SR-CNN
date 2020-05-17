@@ -2,7 +2,8 @@
 Super resolution based on SRCNN using Keras (2.0)
 
 <br>
-**Install require dependency**<br>
+
+<b>Install require dependency</b><br>
 pip install Pillow==2.2.2<br>
 pip install tensorflow<br>
 
