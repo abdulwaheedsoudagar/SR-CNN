@@ -7,9 +7,11 @@ Please refer to paper for more details on working https://arxiv.org/pdf/1501.000
 <b>Install require dependency</b><br>
 pip install Pillow==2.2.2<br>
 pip install tensorflow<br>
+
 Image dataset was downloaded from google images, refer to link 
 (https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/)<br>
 Two architectures are implemented. <br>1. Expanded Super Resolution CNN (ESRCNN) <br>
+
 This gave good results,<br>
 ![](Images/SRCNN.png)<br>
 ![](Images/ESRCNN.png)
