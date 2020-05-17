@@ -5,12 +5,14 @@ Please refer to paper for more details on working https://arxiv.org/pdf/1501.000
 <br>
 Two architectures are implemented. <br>1. Expanded Super Resolution CNN (ESRCNN) <br>
 This gave good results,
+![](Images/ESRCNN.png)<br>
 ![](Images/SRCNN.png)
 
 
 <br>2. Denoiseing Super Resolution CNN (DSRCNN)<br>
 This had better results than previous.
-![](Images/DSRCNN.png)
+![](Images/DSRCNN.png)<br>
+![](Images/DenoiseESRCNN.png)
 <br>
 Both the model was trained on 2000 images for 500 epochs.<br>
 
