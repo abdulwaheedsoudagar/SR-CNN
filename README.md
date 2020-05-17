@@ -23,7 +23,7 @@ This had better results than previous.
 ![](Images/DSRCNN.png)<br>
 ![](Images/DenoiseESRCNN.png)
 <br>
-Both the model was trained on 2000 images for 500 epochs.<br>
+Both the model was trained on 2000 images for 500 epochs. In this notebook I have used 128x128 size images<br>
 
 <b>Credits</b><br>
 Architecture details - https://github.com/olgaliak/
