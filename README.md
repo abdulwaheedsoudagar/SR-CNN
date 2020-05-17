@@ -3,13 +3,15 @@ Super resolution based on SRCNN using Keras (2.0)
 
 Please refer to paper for more details on working https://arxiv.org/pdf/1501.00092v3.pdf
 <br>
-Two architectures are implemented. <br>1. Expanded Super Resolution CNN (ESRCNN) 
-This gave pretty good results
+Two architectures are implemented. <br>1. Expanded Super Resolution CNN (ESRCNN) <br>
+This gave good results,
+![](Images/SRCNN.png)
 
 
 <br>2. Denoiseing Super Resolution CNN (DSRCNN)<br>
 This had better results than previous.
-
+![](Images/DSRCNN.png)
+<br>
 Both the model was trained on 2000 images for 500 epochs.<br>
 
 Image dataset was downloaded from google images, refer to link 
