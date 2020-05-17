@@ -2,10 +2,11 @@
 Super resolution based on SRCNN using Keras (2.0)
 
 <br>
-Install require dependency<br>
+**Install require dependency**<br>
 pip install Pillow==2.2.2<br>
 pip install tensorflow<br>
 
+<br>
 Please refer to paper for more details on working https://arxiv.org/pdf/1501.00092v3.pdf
 <br>
 Two architectures are implemented. <br>1. Expanded Super Resolution CNN (ESRCNN) <br>
